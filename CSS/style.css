@@ -1,13 +1,27 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto+Mono:300,400|Rubik:300,400,900");
-
 body {
     display: flex;
-    min-height: 100vh;
     flex-direction: column;
     font-family: 'Rubik', sans-serif;
     border: 2px solid black;
-    padding: 30px;
+    text-align: center;
 }
+
+.headshot {
+    width: 15%;
+    height: 15%;
+    border-radius: 50%;
+    margin-top: 2%;
+}
+
+h1 {
+  font-size: 68px;
+  font-weight: 900;
+  margin-right: 40%;
+  margin-left: 38%;
+  text-align: left;
+}
+
 
 .container {
     display: flex;
@@ -16,68 +30,53 @@ body {
 }
 
 main {
-    flex: 1;
-    font-size: 24px;
-    text-align: center;
-    padding-right: 55px;
+  flex: 1;
+  font-size: 20px;
+}
+
+#portfolio {
+    border: 2px solid black;
+    padding: 3%;
+}
+
+.portfolioProject {
+    text-decoration: underline;
+    line-height: 350%;
+}
+
+h2 {
+  font-family: 'Rubik', sans-serif;
+  font-weight: 300;
+  margin: 0;
+}
+
+section{
+  line-height: 1;
 }
 
 nav, aside {
-    flex: 0 0 12em;
+    flex: 0 0 24em;
 }
 
 nav {
     order: -1;
 }
 
-header {
-    text-align: center;
+.aside {
+  padding: 2px;
 }
 
-h1 {
-    font-size: 88px;
-    font-weight: 900;
+footer {
+  margin: 3%;
+}
+
+#portfolio {
     text-align: left;
-    padding-left: 12%;
-}
-
-img {
-    width: 15%;
-    height: 15%;
-}
-
-.portfolioText {
-    font-family: 'Rubik', sans-serif;
-    font-weight: 300;
-    text-align: left;
-    padding-left: 15px;
-}
-
-.introText {
-    text-align: left;
-    padding-left: 16px;
+    line-height: 2.5;
 }
 
 
-li{
-  padding: 1em;
-}
-
-.portfolio {
-    display: flex;
-    flex-direction: row;
-    border: 2px solid black;
-    min-height: 25vh;
-    flex-flow: row wrap;
-    justify-content: space-around;
-}
-
-.portfolioProject {
-      text-decoration: underline;
-      padding-top: 15px;
-      line-height: 150%;
-}
 
 .fa {
-  font-size: 50px;
+    font-size: 50px;
 }
