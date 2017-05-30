@@ -3,7 +3,6 @@ body {
     display: flex;
     flex-direction: column;
     font-family: 'Rubik', sans-serif;
-    border: 2px solid black;
     text-align: center;
 }
 
@@ -14,12 +13,16 @@ body {
     margin-top: 2%;
 }
 
+p{
+  font-size: 14px;
+  line-height: 1.5;
+}
 h1 {
-  font-size: 68px;
-  font-weight: 900;
-  margin-right: 40%;
-  margin-left: 38%;
-  text-align: left;
+  font-size: 54px;
+  font-weight: 300;
+  letter-spacing: 1.5px;
+  text-align: center;
+  margin: 1%;
 }
 
 
@@ -40,8 +43,12 @@ main {
 }
 
 .portfolioProject {
+    line-height: 2.5;
+    font-size: 18px;
+}
+
+.portfolioProjectLink {
     text-decoration: underline;
-    line-height: 350%;
 }
 
 h2 {
@@ -51,7 +58,8 @@ h2 {
 }
 
 section{
-  line-height: 1;
+  line-height: 1.5;
+  font-size: 16px;
 }
 
 nav, aside {
@@ -74,8 +82,6 @@ footer {
     text-align: left;
     line-height: 2.5;
 }
-
-
 
 .fa {
     font-size: 50px;
