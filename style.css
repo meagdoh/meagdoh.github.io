@@ -124,11 +124,14 @@ section{
                              "ads"
                              "footer";
         grid-template-columns: 100%;
-        grid-template-rows: 500px /* Header */
+        grid-template-rows: 300px /* Header */
                            50px /* Navigation */
                            1fr /* Main Content */
                            50px /* Ads */
                            30px; /* Footer */
+    }
+    .headshot{
+      display:none;
     }
 }
 
