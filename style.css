@@ -5,8 +5,12 @@ body {
     font-family: 'Rubik', sans-serif;
     text-align: center;
     background-color: #F4F3F2;
+    color:	#404040;
 }
 
+header{
+  margin-top: 5%;
+}
 
 .message{
   background-color: red;
@@ -15,11 +19,24 @@ body {
   /*padding: 1%;*/
   line-height: 1.5;
 }
-
+intro{
+  heig;
+}
 .links{
   text-transform: uppercase;
+  font-size: 20px;
+  margin-bottom: 2%;
 }
 
+a{
+  color: inherit;
+  text-decoration: none;
+}
+
+a:hover {
+    background-color: #404040;
+    color: #F4F3F2;
+}
 .headshot {
     width: 18%;
     height: 18%;
@@ -30,7 +47,11 @@ body {
 p{
   font-size: 18px;
   line-height: 1.75;
+  margin-top: 2em;
+  margin-bottom: 3em;
+
 }
+
 h1 {
   font-size: 54px;
   font-weight: 300;
@@ -52,8 +73,9 @@ main {
 }
 
 #portfolio {
-    border: 2px solid black;
+    /*border: 2px solid black;*/
     padding: 3%;
+    height: 100vh;
 }
 
 .portfolioProject {
