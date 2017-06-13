@@ -79,8 +79,8 @@ main {
 }
 
 .portfolioProject {
-    line-height: 2.5;
-    font-size: 18px;
+  line-height: 2;
+  padding: 1%;
 }
 
 .portfolioProjectLink {
@@ -91,11 +91,13 @@ h2 {
   font-family: 'Rubik', sans-serif;
   font-weight: 300;
   margin: 0;
+  text-transform: uppercase;
 }
 
 section{
   line-height: 1.5;
   font-size: 16px;
+  padding: 1%;
 }
 
 nav, aside {
@@ -126,4 +128,16 @@ footer {
 .social{
   text-align: center;
   padding: 3%;
+}
+
+button{
+  border-radius: 10px;
+  border: 2px solid #808080;
+  background-color: #F4F3F2;
+  color: #404040;
+  font-size: 16px;
+}
+
+.skillz{
+  padding-top: 2%;
 }
