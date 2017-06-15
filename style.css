@@ -141,3 +141,13 @@ button{
 .skillz{
   padding-top: 2%;
 }
+
+@media only screen and (max-width: 1000px) {
+    /* For mobile phones: */
+    nav, aside {
+      display: none;
+    }
+    body {
+        background-color: lightblue;
+    }
+}
