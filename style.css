@@ -150,7 +150,12 @@ span{
     }
     body, span {
         background-color: #7fff00;
+        color: #00999E;
     }
+    span {
+      border: 2px solid #00999E;
+    }
+
 
 
 }
