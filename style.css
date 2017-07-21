@@ -53,8 +53,6 @@ p{
   line-height: 1.75;
   margin-top: 2em;
   margin-bottom: 3em;
-  margin-left: 16em;
-margin-right: 16em;
 text-align: left;
 
 }
@@ -111,6 +109,8 @@ font-style: normal;
 font-weight: 200;
 letter-spacing: normal;
 margin: 1%;
+text-align: left;
+    margin-left: 19em;
 }
 
 section{
