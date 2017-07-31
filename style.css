@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto+Mono:300,400|Rubik:300,400,900|Roboto+Condensed:300|Lato|300");
+@import url("https://fonts.googleapis.com/css?family=Roboto+Mono:300,400|Rubik:300,400,900|Roboto+Condensed:300|Lato|100,300");
 body {
     display: flex;
     flex-direction: column;
@@ -52,7 +52,6 @@ p{
   font-size: 16px;
   line-height: 1.75;
   margin-top: 2em;
-  margin-bottom: 3em;
 text-align: left;
 
 }
@@ -102,25 +101,48 @@ h2 {
   text-transform: uppercase;
 }
 
+.project{
+font-family: 'Lato', serif;
+font-weight: 300;
+text-transform: uppercase;
+
+}
+
 h4{
 font-family: 'Lato', serif;
 font-size: 20px;
 font-style: normal;
-font-weight: 200;
+font-weight: lighter;
 letter-spacing: normal;
 margin: 1%;
 text-align: left;
     margin-left: 19em;
 }
 
-section{
-  line-height: 1.5;
-  font-size: 16px;
+
+
+.preview{
+height: 60px;
+margin-bottom: .5em;
+width: 720px;
+
+}
+
+
+.summary{
+  line-height: 2;
+  font-size: 18px;
   padding: 1%;
+  font-family: 'Lato', serif;
+
 }
 
 nav, aside {
     flex: 0 0 24em;
+}
+
+h3{
+  margin: 0;
 }
 
 nav {
@@ -159,9 +181,12 @@ footer {
 }
 
 .skillz{
-  padding-top: 2%;
+  margin-left: 2%;
 }
 
+.blog{
+  text-decoration: underline;
+}
 .name{
   color: #d3d3d3;
 }
