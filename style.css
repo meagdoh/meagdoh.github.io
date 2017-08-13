@@ -98,6 +98,18 @@ a:hover {
     }
   }
 
+  @media only screen
+  and (min-width: 1026px)
+  and (max-width: 1600px)  {
+
+      nav, aside, hr, .links {
+          display:block;
+      }
+      body{
+        margin-left: 20em;
+        margin-right: 20em;
+      }
+    }
 
 /*body {
     display: flex;
