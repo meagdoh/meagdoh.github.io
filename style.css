@@ -8,11 +8,12 @@ body,
 }
 
 .view {
-    background: url("assets/Meag+Doherty+color.jpeg")no-repeat center center fixed;
+    /*background: url("assets/IMG_3587_copy.JPG")no-repeat center center fixed;*/
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    background-color:  #d3d3d3;
 }
 
 h1{
@@ -25,7 +26,7 @@ h1{
 }
 
 .name{
-  color: #d3d3d3;
+  color:grey;
 }
 
 .full-bg-img{
@@ -38,6 +39,7 @@ p{
   font-style: normal;
   font-weight: 100;
   letter-spacing: normal;
+  color: black;
 }
 .fa{
   color: black;
@@ -45,4 +47,22 @@ p{
 
 .social{
   padding-left: .5em;
+}
+
+.container{
+  background-color:  grey;
+  color: black;
+  opacity: .85;
+  border-color: black;
+}
+
+.links, .skillz{
+  font-family: Helvetica;
+  font-size: 14px;
+
+}
+
+a{
+  color: inherit;
+  font-weight: bold;
 }
