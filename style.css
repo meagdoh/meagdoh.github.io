@@ -11,12 +11,20 @@ h1{
   text-transform: uppercase;
 }
 
+.read-more{
+  text-decoration:none;
+
+}
+
 .name, p{
   color:grey;
 }
 
+.btn-primary{
+  background-color:grey;
+}
 
-p{
+.about{
   font-family: 'Lato', serif;
   font-size: 20px;
   font-style: normal;
@@ -41,9 +49,9 @@ li{
 }
 
 
-a{
+.project-link{
   color: inherit;
-  font-weight: bold;
+  /* font-weight: bold; */
   text-decoration: underline;
 
 
