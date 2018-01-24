@@ -11,6 +11,9 @@ h1{
   text-transform: uppercase;
 }
 
+a{
+  color: inherit;
+}
 .read-more{
   text-decoration:none;
 
