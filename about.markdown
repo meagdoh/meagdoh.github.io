@@ -4,10 +4,6 @@ title: About
 permalink: /about/
 ---
 
-  <header class="post-header">
-    <h1 class="post-title">About</h1>
-  </header>
-
   <p> I build teams, data repositories, and technologies for the public interest. Currently based in Washington, DC. 
     <br><br>
     <i>Last Updated: November 2019</i>
