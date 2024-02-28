@@ -16,7 +16,7 @@ None. All prior reasons (e.g. don't know enough, don't have time, don't have nov
 
 ##### Currently consuming:
 - [Womb: The Inside Story of Where We All Began](https://www.goodreads.com/en/book/show/61284027) by Leah Hazard
-- - [Tripping on Utopia: Margaret Mead, the Cold War, and the Troubled Birth of Psychedelic Science](https://www.goodreads.com/book/show/145624768-tripping-on-utopia?from_search=true&from_srp=true&qid=pTHOeKhb9H&rank=1) by Benjamin Breen
+-[Tripping on Utopia: Margaret Mead, the Cold War, and the Troubled Birth of Psychedelic Science](https://www.goodreads.com/book/show/145624768-tripping-on-utopia?from_search=true&from_srp=true&qid=pTHOeKhb9H&rank=1) by Benjamin Breen
 
 ##### Recently consumed:
 - [Deliberate Intervention: Using Policy and Design to Blunt the Harms of New Technology](https://www.goodreads.com/book/show/63055475-deliberate-intervention) by Alexandra Schmidt
