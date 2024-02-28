@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "the why (not) of this blog"
-date:   2019-01-07 19:11:49 -0500
+date:   2024-02-26 19:11:49 -0500
 categories: jekyll update
 ---
 ### reasons for writing
