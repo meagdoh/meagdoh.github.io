@@ -1,37 +1,20 @@
 ---
 layout: post
-title:  "Test"
+title:  "the why (not) of this blog"
 date:   2019-01-07 19:11:49 -0500
 categories: jekyll update
 ---
+### reasons for writing
+I want a[ digital garden](https://maggieappleton.com/garden). I want to share my perspective. I want to connect with people who care about the same things. I want a corner of the web that has all the things that I like. I want a space where I am the editor-in-chief. I want to publish the things that I talk about a lot. I want a forcing function to synthesize all the streams I consume. I want a public record of my lessons and learnings to help others (and my future self). I want to be a writer. 
 
-## The Context
-Cambia Health Solutions, a long-time client, is looking to set up a microsite for their sales team. The password-protected microsite should hold the sales materials for the salesforce. Currently, the sales material is a combination of slide decks, videos, and one-pagers. With the new microsite, a sales rep should have the ability to preview and download the sales material. Sometimes, the Sales Rep will update the materials and need to re-upload the new version.
-
-Additionally, the Sales Team would like to set up unique repositories for prospective clients. When a Sales Rep leaves a pitch, they would like to send over a unique URL with information specific to the prospect’s business. 
-
-## The Ask
-Develop a set of screens to meet the initial specifications.
-
-### The Approach
-#### _User Stories_ 
-Keeping in mind that our goal is to create rough screens, it’s important to focus on the specific objectives. This initial moment could lead to MANY assumptions; stay focused on what needs to get on the page. Before I start wireframing, I like to draft guiding user stories to confirm I’m meeting the functional requirements of the site (visual design can happen later). There are many ways to draft user stories. For this instance, where the actions are almost self-explanatory, the template I use ‘As a <USER TYPE>, I need to <ACTION>, in order to <GOAL>.
-
-#### _User Flows_
-ith user stories in hand, I think about how to meet these user goals and the general flow of the Top Tasks (View, Download, Upload, Share). Given the diverse user actions, I first broke down the user flow into 4 separate pages: Login, Landing, Detailed Sales Material, Upload Sales Material.
-
-Once I covered all my scenarios, I realized that two pages could cover the same set of stories: Login and Landing. The motivation to consolidate is also driven by the ask to KeepItSimple. 
-
-#### _Wireframes_
-After your user stories and flow are in a stable place, time to wireframe! If this part is new to you, remember: there are boxes, lines, and grids. You got this. First, set up a grid if you haven’t already. My Settings are based on a 12-column layout. There’s a lot more science here for future design discussion. For now though, here’s the starting point:
-
-And begin. Get your header, footer and identify sections within the frames. Here’s the place, again, to not over engineer. For example, the login page - you need a username, password, login button and password recovery link. Voila!
-
-
-
-Next, looking to the Landing Page where we’ll cover most of the user actions. There are plenty of UI kits out there to grab symbols like the Download icon and the Image icon. And add a few of your own words to personalize the wireframe. At this stage, the client is expecting a rough idea of what a solution might look like.
-
-Lastly, don’t forget about the pop-up interactions. In this case, the Create URL could be a separate window. This is a design choice for this round in order to show the separate interaction, but this section could easily live directly on the Landing Page.
-
-### Conclusion
-There is always limitless ways to accomplish a given UX task, but always keep in mind that documentation will save you! Writing the user stories and drafting the alternate user flow may feel redundant or unnecessary but it will provide guardrails and assurance against your concepts and designs. And beyond using documentation as a tool for your own work, this is another way to share your understanding with the client. 
+What I'll be writing about (which is always subject to change due to the beautiful and never-ending rabbit holes of my life):
+- Building research and design practices and projects in the public interest mostly focused on the healthcare/digital health ecosystem. 
+- Emerging bioethical considerations within the health tech and science landscape mostly focused on scientific progress in psychedelic science and women's health.
+### reasons for not writing
+None. All prior reasons (e.g. don't know enough, don't have time, don't have novel ideas) have been handled by some good ol' positive reframing. If you don't like it here, that's okay. 
+##### Currently consuming:
+- [Womb: The Inside Story of Where We All Began](https://www.goodreads.com/en/book/show/61284027) by Leah Hazard 
+- [Tripping on Utopia: Margaret Mead, the Cold War, and the Troubled Birth of Psychedelic Science](https://www.goodreads.com/book/show/145624768-tripping-on-utopia?from_search=true&from_srp=true&qid=pTHOeKhb9H&rank=1) by Benjamin Breen
+##### Recently consumed:
+- [Deliberate Intervention: Using Policy and Design to Blunt the Harms of New Technology](https://www.goodreads.com/book/show/63055475-deliberate-intervention) by Alexandra Schmidt
+- [Making Ethics Matter, Strategic Direction 2024-2028](https://www.nuffieldbioethics.org/assets/pdfs/NCOB-5-Year-Strategy-Making-Ethics-Matter-FINAL.pdf) by Nuffield Council on Bioethics
