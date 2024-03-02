@@ -7,27 +7,18 @@ permalink: /about/
   <p> I build teams, data repositories, and technologies for the public interest. Currently based in Washington, DC. 
     <br><br>
     <i>Last Updated: March 2023</i>
-      <h3>Recent Public Engagements</h3>
-<ul>
-<li> Doherty, Meag (2023): "Maximizing the Impact of User Feedback: 
-Effective Practices for Community Management." JupyterCon. Talk. Cité des Sciences et de l'Industrie. [This talk was also presented at Collaborations Workshop 2023. University of Manchester.] <a href="https://doi.org/10.6084/m9.figshare.21670799.v1"> https://doi.org/10.6084/m9.figshare.21670799.v1</a> </li>
-
-<li> Doherty, Meag; Simpson, Noel (2023): "What are good practices and practical steps for conducting effective usability testing in agile environments?" Collaborations Workshop. Workshop. University of Manchester.<a href="https://docs.google.com/document/d/1VkgD7oqsuLY9x1uMMqHYxbtrOsh_CKZoyLbOOjHBcBQ/edit"> Session notes.</a> </li>
-
-<li> Doherty, Meag (2022): "The evolving role of UX/UI in research software." Imperial Research Software Community. Seminar. Imperial College London. <a href="https://doi.org/10.6084/m9.figshare.21670799.v1"> https://doi.org/10.6084/m9.figshare.21670799.v1</a> </li>
-
-<li> Doherty, Meag (2022): "Understanding researcher needs in TREs." RSECon. Lightning Talk. Newscastle University. <a href= "https://doi.org/10.6084/m9.figshare.21670787.v2">https://doi.org/10.6084/m9.figshare.21670787.v2 </a> </li>
-
-<li>Doherty, Meag (2022): "Everyone has a say: Embedding human-centred design (HCD) in the research setting." AI for multiple long-term conditions: Research Support Facility (RSF) Seminar Series. Seminar. Alan Turing Institute. <a href="https://doi.org/10.6084/m9.figshare.21385389.v1"> https://doi.org/10.6084/m9.figshare.21385389.v1</a> </li>
-
-<li>Doherty, Meag (2022): "Measuring User Outcomes in Research Software." Collaborations Workshop. Lightning Talk. Software Sustainability Institute.<a href="https://doi.org/10.6084/m9.figshare.19469855.v1"> https://doi.org/10.6084/m9.figshare.19469855.v </a> </li>
-
-<li>Gibson, Sarah; Ragan-Kelley, Min; Doherty, Meag; Rao, Achintya (2022): "Crowdsourcing Community Practices for Reproducible Computational Environments in the Cloud" Collaborations Workshop. Mini-Workshop. Software Sustainability Institute.</a> </li>
-
-<li>Doherty, Meag (2021): "Exploring the possible of biomedical data visualization" Birds of a Feather session. csv,conf,v6. <a href="https://doi.org/10.6084/m9.figshare.25330510.v1"> https://doi.org/10.6084/m9.figshare.25330510.v1 </a></li>
+  
+<h3>Recent Public Engagements</h3>
+  <ul>
+    <li> Doherty, Meag (2023): "Maximizing the Impact of User Feedback: Effective Practices for Community Management." JupyterCon. Talk. Cité des Sciences et de l'Industrie. [This talk was also presented at Collaborations Workshop 2023. University of Manchester.] <a href="https://doi.org/10.6084/m9.figshare.21670799.v1"> https://doi.org/10.6084/m9.figshare.21670799.v1</a> </li>
+    <li> Doherty, Meag; Simpson, Noel (2023): "What are good practices and practical steps for conducting effective usability testing in agile environments?" Collaborations Workshop. Workshop. University of Manchester.<a href="https://docs.google.com/document/d/1VkgD7oqsuLY9x1uMMqHYxbtrOsh_CKZoyLbOOjHBcBQ/edit"> Session notes.</a> </li>
+    <li> Doherty, Meag (2022): "The evolving role of UX/UI in research software." Imperial Research Software Community. Seminar. Imperial College London. <a href="https://doi.org/10.6084/m9.figshare.21670799.v1"> https://doi.org/10.6084/m9.figshare.21670799.v1</a> </li>
+    <li> Doherty, Meag (2022): "Understanding researcher needs in TREs." RSECon. Lightning Talk. Newscastle University. <a href= "https://doi.org/10.6084/m9.figshare.21670787.v2">https://doi.org/10.6084/m9.figshare.21670787.v2 </a> </li>
+    <li>Doherty, Meag (2022): "Everyone has a say: Embedding human-centred design (HCD) in the research setting." AI for multiple long-term conditions: Research Support Facility (RSF) Seminar Series. Seminar. Alan Turing Institute. <a href="https://doi.org/10.6084/m9.figshare.21385389.v1"> https://doi.org/10.6084/m9.figshare.21385389.v1</a> </li>
+    <li>Doherty, Meag (2022): "Measuring User Outcomes in Research Software." Collaborations Workshop. Lightning Talk. Software Sustainability Institute.<a href="https://doi.org/10.6084/m9.figshare.19469855.v1"> https://doi.org/10.6084/m9.figshare.19469855.v </a> </li>
+    <li>Gibson, Sarah; Ragan-Kelley, Min; Doherty, Meag; Rao, Achintya (2022): "Crowdsourcing Community Practices for Reproducible Computational Environments in the Cloud" Collaborations Workshop. Mini-Workshop. Software Sustainability Institute.</a> </li>
+    <li>Doherty, Meag (2021): "Exploring the possible of biomedical data visualization" Birds of a Feather session. csv,conf,v6. <a href="https://doi.org/10.6084/m9.figshare.25330510.v1"> https://doi.org/10.6084/m9.figshare.25330510.v1 </a></li>
 </ul>
-
-
 <h3>Past Projects</h3>
     <ul>
       <li><a href="https://figshare.com/articles/presentation/Doherty_2022_SSI_Proposal_pptx/20164511/2" target="_blank"  
@@ -40,10 +31,10 @@ Effective Practices for Community Management." JupyterCon. Talk. Cité des Scien
         Journal of Medical Internet Research</li> (2011)
  </ul>
 
- <h3>Words</h3>
+<h3>Words</h3>
     <ul>
       <li><a href="https://u.group/thinking/how-holistic-design-can-digitize-in-person-government-services/" target="_blank"  >How Holistic Design Can Digitize In-Person Government Services</a>, U.Group (2019)</li>
-      <!-- <li><a href="https://medium.com/read-write-participate/achieving-data-literacy-through-fun-and-games-15375156ebd5" target="_blank"  >Achieving data literacy through fun and games</a>, Mozilla's Read, Write, Participate (2018)</li> -->
+      <li><a href="https://medium.com/read-write-participate/achieving-data-literacy-through-fun-and-games-15375156ebd5" target="_blank"  >Achieving data literacy through fun and games</a>, Mozilla's Read, Write, Participate (2018)</li>
       <li><a href="https://web.archive.org/web/20200812013551/https://u.group/thinking/building-trust-through-service-design/n" target="_blank"  >Building Trust through Service Design</a>, Agency CHIEF (2018)</li>
       <li><a href="https://iranopendata.org/en/blog/understanding-how-transparency-works-for-the-us-government" >Understanding How Transparency Works For The US Government</a>, Open and Shut (2018)</li>
       <li><a href="https://openheroines.org/my-first-global-conference-part-ii-92c58c6d47f" target="_blank"  >My First Global Conference</a>, Open Heroines (2017)</li>
@@ -60,7 +51,7 @@ Effective Practices for Community Management." JupyterCon. Talk. Cité des Scien
       <li><a href="http://www.mobihealthnews.com/28123/text-message-interventions-work-best-when-theyre-tailored" target="_blank"  >Text message interventions work best when they're tailored </a> MobiHealth News (2013)</li>
 </ul>
 
- <h3>Talks</h3>
+<h3>Talks</h3>
     <ul>
       <li>Play testing Data for Humanity, School of Data (2019)</li>
       <li><a href="https://github.com/MozillaFestival/mozfest-program-2018/issues/726" target="_blank"  >Teaching data literacy through play</a>, Mozfest (2018)</li>
