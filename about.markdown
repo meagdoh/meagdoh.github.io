@@ -7,28 +7,28 @@ permalink: /about/
   <p> I build teams, data repositories, and technologies for the public interest. Currently based in Washington, DC. 
     <br><br>
     <i>Last Updated: March 2023</i>
-    <h3>Recent Public Engagements</h3>
+      <h3>Recent Public Engagements</h3>
+<ul>
+<li> Doherty, Meag (2023): "Maximizing the Impact of User Feedback: 
+Effective Practices for Community Management." JupyterCon. Talk. Cité des Sciences et de l'Industrie. [This talk was also presented at Collaborations Workshop 2023. University of Manchester.] <a href="https://doi.org/10.6084/m9.figshare.21670799.v1"> https://doi.org/10.6084/m9.figshare.21670799.v1</a> </li>
 
-<ul> Doherty, Meag (2023): "Maximizing the Impact of User Feedback: 
-Effective Practices for Community Management." JupyterCon. Talk. Cité des Sciences et de l'Industrie. [This talk was also presented at Collaborations Workshop 2023. University of Manchester.] <a href="https://doi.org/10.6084/m9.figshare.21670799.v1"> https://doi.org/10.6084/m9.figshare.21670799.v1</a> </ul>
+<li> Doherty, Meag; Simpson, Noel (2023): "What are good practices and practical steps for conducting effective usability testing in agile environments?" Collaborations Workshop. Workshop. University of Manchester.<a href="https://docs.google.com/document/d/1VkgD7oqsuLY9x1uMMqHYxbtrOsh_CKZoyLbOOjHBcBQ/edit"> Session notes.</a> </li>
 
-<ul> Doherty, Meag; Simpson, Noel (2023): "What are good practices and practical steps for conducting effective usability testing in agile environments?" Collaborations Workshop. Workshop. University of Manchester.<a href="https://docs.google.com/document/d/1VkgD7oqsuLY9x1uMMqHYxbtrOsh_CKZoyLbOOjHBcBQ/edit"> Session notes.</a> </ul>
+<li> Doherty, Meag (2022): "The evolving role of UX/UI in research software." Imperial Research Software Community. Seminar. Imperial College London. <a href="https://doi.org/10.6084/m9.figshare.21670799.v1"> https://doi.org/10.6084/m9.figshare.21670799.v1</a> </li>
 
-<ul> Doherty, Meag (2022): "The evolving role of UX/UI in research software." Imperial Research Software Community. Seminar. Imperial College London. <a href="https://doi.org/10.6084/m9.figshare.21670799.v1"> https://doi.org/10.6084/m9.figshare.21670799.v1</a> </ul>
+<li> Doherty, Meag (2022): "Understanding researcher needs in TREs." RSECon. Lightning Talk. Newscastle University. <a href= "https://doi.org/10.6084/m9.figshare.21670787.v2">https://doi.org/10.6084/m9.figshare.21670787.v2 </a> </li>
 
-<ul> Doherty, Meag (2022): "Understanding researcher needs in TREs." RSECon. Lightning Talk. Newscastle University. <a href= "https://doi.org/10.6084/m9.figshare.21670787.v2">https://doi.org/10.6084/m9.figshare.21670787.v2 </a> </ul>
+<li>Doherty, Meag (2022): "Everyone has a say: Embedding human-centred design (HCD) in the research setting." AI for multiple long-term conditions: Research Support Facility (RSF) Seminar Series. Seminar. Alan Turing Institute. <a href="https://doi.org/10.6084/m9.figshare.21385389.v1"> https://doi.org/10.6084/m9.figshare.21385389.v1</a> </li>
 
-<ul>Doherty, Meag (2022): "Everyone has a say: Embedding human-centred design (HCD) in the research setting." AI for multiple long-term conditions: Research Support Facility (RSF) Seminar Series. Seminar. Alan Turing Institute. <a href="https://doi.org/10.6084/m9.figshare.21385389.v1"> https://doi.org/10.6084/m9.figshare.21385389.v1</a></ul>
+<li>Doherty, Meag (2022): "Measuring User Outcomes in Research Software." Collaborations Workshop. Lightning Talk. Software Sustainability Institute.<a href="https://doi.org/10.6084/m9.figshare.19469855.v1"> https://doi.org/10.6084/m9.figshare.19469855.v </a> </li>
 
-<ul>Doherty, Meag (2022): "Measuring User Outcomes in Research Software." Collaborations Workshop. Lightning Talk. Software Sustainability Institute.<a href="https://doi.org/10.6084/m9.figshare.19469855.v1"> https://doi.org/10.6084/m9.figshare.19469855.v </a> </ul>
+<li>Gibson, Sarah; Ragan-Kelley, Min; Doherty, Meag; Rao, Achintya (2022): "Crowdsourcing Community Practices for Reproducible Computational Environments in the Cloud" Collaborations Workshop. Mini-Workshop. Software Sustainability Institute.</a> </li>
 
-<ul>Gibson, Sarah; Ragan-Kelley, Min; Doherty, Meag; Rao, Achintya (2022): "Crowdsourcing Community Practices for Reproducible Computational Environments in the Cloud" Collaborations Workshop. Mini-Workshop. Software Sustainability Institute.</a> </ul>
-
-<ul>Doherty, Meag (2021): "Exploring the possible of biomedical data visualization" Birds of a Feather session. csv,conf,v6. <a href="https://doi.org/10.6084/m9.figshare.25330510.v1"> https://doi.org/10.6084/m9.figshare.25330510.v1 </a>
+<li>Doherty, Meag (2021): "Exploring the possible of biomedical data visualization" Birds of a Feather session. csv,conf,v6. <a href="https://doi.org/10.6084/m9.figshare.25330510.v1"> https://doi.org/10.6084/m9.figshare.25330510.v1 </a></li>
 </ul>
 
 
-  <h3>Past Projects</h3>
+<h3>Past Projects</h3>
     <ul>
       <li><a href="https://figshare.com/articles/presentation/Doherty_2022_SSI_Proposal_pptx/20164511/2" target="_blank"  
       >Measuring User Outcomes (UX) in Research Software</a>, Software Sustainability Institute (2021-2023) 
