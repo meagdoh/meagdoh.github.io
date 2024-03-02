@@ -29,8 +29,7 @@ permalink: /about/
       <li><a href="https://meagdoherty.io/hamilton-project/" target="_blank"  >Hamilton Project</a>, course for John Hopkins University (2017)</li>
       <li><a href="https://web.archive.org/web/20161109000026/https://connectedgovernment.org/2016/07/10/changing-the-civic-conversation-seamus-kraft//" target="_blank"  >Changing the Civic Conversation</a>, Millennial Train Project (2016)</li>
       <li><a href="https://www.ncbi.nlm.nih.gov/pubmed/27864165" target="_blank"  >Text to Move: A Randomized Controlled Trial of a Text-Messaging Program to Improve Physical Activity Behaviors in Patients With Type 2 Diabetes Mellitus.</a>, Journal of Medical Internet Research (2011)
-      </li> 
-  </ul>
+      </li></ul>
 
 <h3>Words</h3>
     <ul>
