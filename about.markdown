@@ -17,8 +17,9 @@ permalink: /about/
       <li>Doherty, Meag (2022): "Everyone has a say: Embedding human-centred design (HCD) in the research setting." AI for multiple long-term conditions: Research Support Facility (RSF) Seminar Series. Seminar. Alan Turing Institute. <a href="https://doi.org/10.6084/m9.figshare.21385389.v1"> https://doi.org/10.6084/m9.figshare.21385389.v1</a> </li>
       <li>Doherty, Meag (2022): "Measuring User Outcomes in Research Software." Collaborations Workshop. Lightning Talk. Software Sustainability Institute.<a href="https://doi.org/10.6084/m9.figshare.19469855.v1"> https://doi.org/10.6084/m9.figshare.19469855.v </a> </li>
       <li>Gibson, Sarah; Ragan-Kelley, Min; Doherty, Meag; Rao, Achintya (2022): "Crowdsourcing Community Practices for Reproducible Computational Environments in the Cloud" Collaborations Workshop. Mini-Workshop. Software Sustainability Institute.</a> </li>
-      <li>Doherty, Meag (2021): "Exploring the possible of biomedical data visualization" Birds of a Feather session. csv,conf,v6. <a href="https://doi.org/10.6084/m9.figshare.25330510.v1"> https://doi.org/10.6084/m9.figshare.25330510.v1 </a></li>
-</ul>
+      <li>Doherty, Meag (2021): "Exploring the possible of biomedical data visualization" Birds of a Feather session. csv,conf,v6. <a href="https://doi.org/10.6084/m9.figshare.25330510.v1"> https://doi.org/10.6084/m9.figshare.25330510.v1 </a>
+      </li>
+    </ul> 
 
 <h3>Past Projects</h3>
     <ul>
@@ -27,7 +28,8 @@ permalink: /about/
       <li><a href="https://v2v.opengovfoundation.org/" target="_blank"  >From Votes to Voicemails</a>, The OpenGov Foundation (2017)</li>
       <li><a href="https://meagdoherty.io/hamilton-project/" target="_blank"  >Hamilton Project</a>, course for John Hopkins University (2017)</li>
       <li><a href="https://web.archive.org/web/20161109000026/https://connectedgovernment.org/2016/07/10/changing-the-civic-conversation-seamus-kraft//" target="_blank"  >Changing the Civic Conversation</a>, Millennial Train Project (2016)</li>
-      <li><a href="https://www.ncbi.nlm.nih.gov/pubmed/27864165" target="_blank"  >Text to Move: A Randomized Controlled Trial of a Text-Messaging Program to Improve Physical Activity Behaviors in Patients With Type 2 Diabetes Mellitus.</a>,Journal of Medical Internet Research</li> (2011)
+      <li><a href="https://www.ncbi.nlm.nih.gov/pubmed/27864165" target="_blank"  >Text to Move: A Randomized Controlled Trial of a Text-Messaging Program to Improve Physical Activity Behaviors in Patients With Type 2 Diabetes Mellitus.</a>,Journal of Medical Internet Research (2011)
+      </li> 
     </ul>
 
 <h3>Words</h3>
